@@ -1,2 +1,2 @@
 # datasciencecoursera
-Course project queston #2
+Course project question #2
